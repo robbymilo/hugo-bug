@@ -8,8 +8,8 @@ target = "content"
 
 [[module.mounts]]
 source = "extra-content"
-target = "content/resources"
+target = "content/resources-a"
 
 [[module.mounts]]
 source = "extra-content"
-target = "content/more-resources"
+target = "content/resources-b"
